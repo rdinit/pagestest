@@ -1,5 +1,5 @@
 markdown: kramdown
-remote_theme: abhinavs/moonwalk
+remote_theme: rdinit/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
