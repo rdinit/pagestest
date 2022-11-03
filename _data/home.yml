@@ -1,9 +1,12 @@
 navbar_entries:
-  - title: Nav1
-    url: nav1
+  - title: about
+    url: about
 
-  - title: Nav2
-    url: nav2
+  - title: blog
+    url: blog
+
+  - title: website
+    url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
@@ -34,40 +37,48 @@ project_entries:
 
 old_project_entries:
   - title: Soopr
-    url: url
-    desc: DescriptionDescriptionDescriptionDescriptionDescription
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
   - title: Cookie
-    url: url
-    desc: DescriptionDescriptionDescriptionDescription
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
 
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: title
-    url: url
+  - title: abhinav's homepage
+    url: https://www.abhinav.co
 
-  - title: title
-    url: url
+  - title: twitter
+    url: https://twitter.com/abhinav
 
-  - title: title
-    url: url
+  - title: github
+    url: https://github.com/abhinavs
 
+  - title: feed
+    url: feed.xml
 
 misc_entries:
-  - title: title
-    url: url
-      
-  - title: title
-    url: url
+  - title: this is an example vertical list
+    url: false
 
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
 
-- title: title
-  url: url
+  - title: and you can add data in _data/home.yml
+    url: false
 
   - title: Blog posts
-  post_list: true
-  url: false
+    post_list: true
+    url: false
 
   - title: moonwalk on the Internet
     url: false
@@ -86,3 +97,4 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
+
