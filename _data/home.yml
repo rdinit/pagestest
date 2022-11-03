@@ -56,18 +56,18 @@ footer_entries:
 
 misc_entries:
   - title: title
-      url: url
+    url: url
       
   - title: title
-      url: url
+    url: url
 
 
 - title: title
-    url: url
+  url: url
 
   - title: Blog posts
-    post_list: true
-    url: false
+  post_list: true
+  url: false
 
   - title: moonwalk on the Internet
     url: false
