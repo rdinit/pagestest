@@ -55,11 +55,11 @@ footer_entries:
 
 
 misc_entries:
-- title: title
-    url: url
-    
-- title: title
-    url: url
+  - title: title
+      url: url
+      
+  - title: title
+      url: url
 
 
 - title: title
